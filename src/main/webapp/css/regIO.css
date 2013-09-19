@@ -1,0 +1,53 @@
+
+<!--
+.excel dd dt dl span {
+	font-size: 16px;
+}
+
+#export_excel_reg {
+	float: left;
+	width: 300px;
+	margin: 10px;
+	padding: 15px;
+	padding-left: 100px;
+	border-right: #000 dashed 1px;
+}
+
+#import_excel_reg {
+	float: left;
+	width: 300px;
+	margin: 10px;
+	padding: 15px;
+	padding-left: 100px;
+	border: #000 dashed 0px;
+}
+
+#export_excel_user {
+	float: left;
+	width: 300px;
+	margin: 10px;
+	padding: 15px;
+	padding-left: 100px;
+	border-right: #000 dashed 1px;
+}
+
+#import_excel_user {
+	float: left;
+	width: 300px;
+	margin: 10px;
+	padding: 15px;
+	padding-left: 100px;
+	border: #000 dashed 0px;
+}
+
+#clear {
+	clear: both;
+}
+
+#description_importAndExport {
+	width: 100%;
+	position: relative;
+	margin: 5px auto;
+	display: block;
+}
+-->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="nupterp"
+  id="myeclipse.1378551025606"
+  context-root="/nupterp"
+  j2ee-spec="6.0"
+  archive="nupterp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
